@@ -26,3 +26,21 @@ Landing page-ul este serviciul de autorizare de la Google. Din moment ce ne loga
 
 4. Capturile de ecran sunt atasate.
 
+Metode HTTP:
+![http](https://user-images.githubusercontent.com/72194352/168481467-c68fb016-ba3e-4888-9f18-78aef9a243e9.png)
+![http2](https://user-images.githubusercontent.com/72194352/168481472-3e26ef94-b224-4c25-b6e4-5b7d78ac0ca0.png)
+![http3](https://user-images.githubusercontent.com/72194352/168481477-c25397c4-745c-4ce7-8cf3-fa55d7ef9bc5.png)
+![http4](https://user-images.githubusercontent.com/72194352/168481479-85b511c8-d659-4bd2-a98a-0f71b024308e.png)
+
+Metode autorizare:
+![auth](https://user-images.githubusercontent.com/72194352/168481493-830b9b17-8999-4c53-976a-bcd060768ae9.png)
+![auth2](https://user-images.githubusercontent.com/72194352/168481496-c94e13d3-f8d6-4a13-8212-962297c420aa.png)
+
+Interfata aplicatie:
+![app](https://user-images.githubusercontent.com/72194352/168481501-92b309dd-387b-459f-a3bb-70efc58b3dbb.png)
+![app2](https://user-images.githubusercontent.com/72194352/168481503-18254539-bf08-44d7-aae8-bebb5611827b.png)
+![app3](https://user-images.githubusercontent.com/72194352/168481507-95a852d0-c247-4a2f-85a7-109963e83a69.png)
+![app4](https://user-images.githubusercontent.com/72194352/168481509-aafd42e7-f809-4a34-bf99-1ad815ca3e81.png)
+![app5](https://user-image![app6](https://user-images.githubusercontent.com/72194352/168481515-4235c39a-e850-43a8-96b9-bb99682e55fb.png)
+![app6](https://user-images.githubusercontent.com/72194352/168481521-9a15d005-b033-417e-9e2c-3ed3753d9bfd.png)
+
