@@ -1,5 +1,9 @@
 # ProiectCC
 
+Link catre aplicatie Heroku: https://ancient-ocean-36298.herokuapp.com/
+Link catre repository: https://github.com/VladMihai99/ProiectCC
+Link catre video: https://www.youtube.com/watch?v=qmqDPHsmtVk
+
 1. Introducere
 Aceasta aplicatie este o platforma de blogging unde orice se inregistreaza poate impartasi povesti din viata lor, alegand sa le face publice sau private. Aplicatia a fost creata utilizand Node.js, Express, MongoDB, Passport cu strategie Google OAuth. De asemenea, am urmat mai multe tutoriale in care am incercat sa utilizez handlebars care foloseste un sablon si un obiect de intrare pentru a genera HTML sau alte formate text. 
 
@@ -22,5 +26,3 @@ Landing page-ul este serviciul de autorizare de la Google. Din moment ce ne loga
 
 4. Capturile de ecran sunt atasate.
 
-Link catre aplicatie Heroku: 
-https://ancient-ocean-36298.herokuapp.com/
